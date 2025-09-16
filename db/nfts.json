@@ -1,0 +1,86 @@
+[
+  {
+    "id": "nft_1712345678901",
+    "name": "Anoma NFT #1",
+    "image_uri": "ipfs://QmXyZ1234567890abcdef",
+    "metadata_uri": "ipfs://QmAbC1234567890abcdef",
+    "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
+    "chain": "Ethereum",
+    "price": "0",
+    "intents": {
+      "ethereum": [],
+      "polygon": [],
+      "optimism": []
+    }
+  },
+  {
+    "id": "nft_1712345678902",
+    "name": "Anoma NFT #2",
+    "image_uri": "ipfs://QmXyZ1234567890abcde0",
+    "metadata_uri": "ipfs://QmAbC1234567890abcde0",
+    "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
+    "chain": "Polygon",
+    "price": "0",
+    "intents": {
+      "ethereum": [],
+      "polygon": [],
+      "optimism": []
+    }
+  },
+  {
+    "id": "nft_1712345678903",
+    "name": "Anoma NFT #3",
+    "image_uri": "ipfs://QmXyZ1234567890abcde1",
+    "metadata_uri": "ipfs://QmAbC1234567890abcde1",
+    "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
+    "chain": "Optimism",
+    "price": "0",
+    "intents": {
+      "ethereum": [],
+      "polygon": [],
+      "optimism": []
+    }
+  },
+  {
+    "id": "nft_1712345678904",
+    "name": "Anoma NFT #4",
+    "image_uri": "ipfs://QmXyZ1234567890abcde2",
+    "metadata_uri": "ipfs://QmAbC1234567890abcde2",
+    "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
+    "chain": "Ethereum",
+    "price": "0",
+    "intents": {
+      "ethereum": [],
+      "polygon": [],
+      "optimism": []
+    }
+  },
+  {
+    "id": "nft_1712345678905",
+    "name": "Anoma NFT #5",
+    "image_uri": "ipfs://QmXyZ1234567890abcde3",
+    "metadata_uri": "ipfs://QmAbC1234567890abcde3",
+    "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
+    "chain": "Polygon",
+    "price": "0",
+    "intents": {
+      "ethereum": [],
+      "polygon": [],
+      "optimism": []
+    }
+  },
+  {
+    "id": "nft_1712345678906",
+    "name": "Anoma NFT #6",
+    "image_uri": "ipfs://QmXyZ1234567890abcde4",
+    "metadata_uri": "ipfs://QmAbC1234567890abcde4",
+    "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
+    "chain": "Optimism",
+    "price": "0",
+    "intents": {
+      "ethereum": [],
+      "polygon": [],
+      "optimism": []
+    }
+  }
+]
