@@ -1,8 +1,8 @@
 [
   {
     "id": "nft_1712345678901",
-    "name": "Anoma NFT #1",
-    "image_uri": "ipfs://QmXyZ1234567890abcdef",
+    "name": "Shrimpers NFT #1",
+    "image_uri": "/images/nft1.png",
     "metadata_uri": "ipfs://QmAbC1234567890abcdef",
     "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
     "chain": "Ethereum",
@@ -15,8 +15,8 @@
   },
   {
     "id": "nft_1712345678902",
-    "name": "Anoma NFT #2",
-    "image_uri": "ipfs://QmXyZ1234567890abcde0",
+    "name": "Shrimpers NFT #2",
+    "image_uri": "/images/nft2.png",
     "metadata_uri": "ipfs://QmAbC1234567890abcde0",
     "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
     "chain": "Polygon",
@@ -29,8 +29,8 @@
   },
   {
     "id": "nft_1712345678903",
-    "name": "Anoma NFT #3",
-    "image_uri": "ipfs://QmXyZ1234567890abcde1",
+    "name": "Shrimpers NFT #3",
+    "image_uri": "/images/nft3.png",
     "metadata_uri": "ipfs://QmAbC1234567890abcde1",
     "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
     "chain": "Optimism",
@@ -43,8 +43,8 @@
   },
   {
     "id": "nft_1712345678904",
-    "name": "Anoma NFT #4",
-    "image_uri": "ipfs://QmXyZ1234567890abcde2",
+    "name": "Shrimpers NFT #4",
+    "image_uri": "/images/nft4.png",
     "metadata_uri": "ipfs://QmAbC1234567890abcde2",
     "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
     "chain": "Ethereum",
@@ -57,8 +57,8 @@
   },
   {
     "id": "nft_1712345678905",
-    "name": "Anoma NFT #5",
-    "image_uri": "ipfs://QmXyZ1234567890abcde3",
+    "name": "Shrimpers NFT #5",
+    "image_uri": "/images/nft5.png",
     "metadata_uri": "ipfs://QmAbC1234567890abcde3",
     "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
     "chain": "Polygon",
@@ -71,8 +71,8 @@
   },
   {
     "id": "nft_1712345678906",
-    "name": "Anoma NFT #6",
-    "image_uri": "ipfs://QmXyZ1234567890abcde4",
+    "name": "Shrimpers NFT #6",
+    "image_uri": "/images/nft6.png",
     "metadata_uri": "ipfs://QmAbC1234567890abcde4",
     "owner": "atest1d9khqw36xcx3p3v27s330g7g8n36g53v27s330g7g8n36g5",
     "chain": "Optimism",
