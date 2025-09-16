@@ -13,7 +13,7 @@ app.post('/api/mint', (req, res) => {
   const { name, imagePath } = req.body;
   if (!name || !imagePath) return res.status(400).json({ error: "Name and imagePath required" });
 
-  const cliPath = path.join(__dirname, '../cli/anoma-nft.ts');
+  const cliPath = path.join(__dirname, './cli/anoma-nft.ts');
   const command = `npx ts-node ${cliPath} mint "${name}" "${imagePath}"`;
 
   exec(command, (error, stdout, stderr) => {
